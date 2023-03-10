@@ -1,0 +1,20 @@
+/* 캘린더 스타일 */
+.v-calendar-monthly .v-present button {
+    background-color: #82b1ff !important;
+}
+
+.v-calendar-monthly .v-calendar-weekly__day-label {
+    margin-bottom: 4px;
+}
+
+.v-calendar-daily .v-calendar-daily__interval-text {
+    color: white !important;
+}
+
+.v-calendar-daily__intervals-body {
+    margin-top: 4px !important;
+}
+
+.v-menu__content.theme--light.menuable__content__active {
+    min-width: auto !important;
+}
